@@ -5,3 +5,5 @@ aepfel
 birnen
 nuesse
 punsh
+pommes
+
